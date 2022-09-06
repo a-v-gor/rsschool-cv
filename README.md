@@ -1,2 +1,1 @@
-# rsschool-cv
-Educational project for Rolling Scopes School
+https://a-v-gor.github.io/rsschool-cv/cv
